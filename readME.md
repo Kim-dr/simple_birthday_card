@@ -2,7 +2,7 @@
 
 A beautiful, fully responsive animated birthday card with interactive celebrations including fireworks, balloons, and music notes. Perfect for sending digital birthday wishes with a personal touch!
 
-![Birthday Card Demo](https://img.shields.io/badge/Status-Ready%20to%20Celebrate-brightgreen?style=for-the-badge&logo=birthday-cake)
+![Birthday Card link] ()
 
 ## ✨ Features
 
@@ -220,5 +220,6 @@ This project is open source and available under the [MIT License](LICENSE).
 **Enjoy spreading joy and celebration with this interactive birthday card!** 🎉
 
 ---
+
 
 *For questions, suggestions, or just to say hi, feel free to reach out!*
