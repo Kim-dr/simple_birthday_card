@@ -2,7 +2,7 @@
 
 A beautiful, fully responsive animated birthday card with interactive celebrations including fireworks, balloons, and music notes. Perfect for sending digital birthday wishes with a personal touch!
 
-![Birthday Card link] ()
+![Birthday Card link] (https://mumday.netlify.app/)
 
 ## ✨ Features
 
@@ -223,3 +223,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 
 *For questions, suggestions, or just to say hi, feel free to reach out!*
+
