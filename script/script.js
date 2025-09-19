@@ -1,4 +1,4 @@
-let celebrationActive = false;
+        let celebrationActive = false;
 
         function startCelebration() {
             const birthdayText = document.getElementById('birthdayText');
